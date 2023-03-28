@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonatan Arturo Morales Tavera</h1>
-<h3 align="center">I like developing native Android apps with Kotlin</h3>
+<h3 align="center">I like development native Android apps with Kotlin</h3>
 
 - 🔭 I’m currently working on [Momo Plants](https://github.com/Johnmorales26/Momo_Plants)
 
